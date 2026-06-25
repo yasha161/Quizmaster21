@@ -1,0 +1,169 @@
+{
+  "subjects": [
+    {
+      "id": "sub-upsc",
+      "subjectId": "sub-upsc",
+      "name": "UPSC IAS Civils",
+      "category": "Government Exams",
+      "icon": "book",
+      "createdAt": "2026-06-25T07:46:46.177Z"
+    },
+    {
+      "id": "sub-ssc-cgl",
+      "subjectId": "sub-ssc-cgl",
+      "name": "SSC CGL Exam",
+      "category": "Government Exams",
+      "icon": "award",
+      "createdAt": "2026-06-25T07:46:46.178Z"
+    },
+    {
+      "id": "sub-rrb-ntpc",
+      "subjectId": "sub-rrb-ntpc",
+      "name": "RRB NTPC",
+      "category": "Government Exams",
+      "icon": "train",
+      "createdAt": "2026-06-25T07:46:46.178Z"
+    },
+    {
+      "id": "sub-state-pcs",
+      "subjectId": "sub-state-pcs",
+      "name": "State PCS Exam",
+      "category": "Government Exams",
+      "icon": "map",
+      "createdAt": "2026-06-25T07:46:46.178Z"
+    },
+    {
+      "id": "sub-banking",
+      "subjectId": "sub-banking",
+      "name": "Banking PO Exams",
+      "category": "Government Exams",
+      "icon": "globe",
+      "createdAt": "2026-06-25T07:46:46.178Z"
+    },
+    {
+      "id": "sub-nda-cds",
+      "subjectId": "sub-nda-cds",
+      "name": "NDA & CDS Exams",
+      "category": "Government Exams",
+      "icon": "shield",
+      "createdAt": "2026-06-25T07:46:46.178Z"
+    },
+    {
+      "id": "sub-ugc-net",
+      "subjectId": "sub-ugc-net",
+      "name": "UGC NET Paper 1",
+      "category": "Government Exams",
+      "icon": "graduation-cap",
+      "createdAt": "2026-06-25T07:46:46.178Z"
+    },
+    {
+      "id": "sub-ctet",
+      "subjectId": "sub-ctet",
+      "name": "CTET Pedagogy",
+      "category": "Government Exams",
+      "icon": "school",
+      "createdAt": "2026-06-25T07:46:46.178Z"
+    },
+    {
+      "id": "sub-lic-aao",
+      "subjectId": "sub-lic-aao",
+      "name": "LIC AAO Exam",
+      "category": "Government Exams",
+      "icon": "shield",
+      "createdAt": "2026-06-25T07:46:46.178Z"
+    },
+    {
+      "id": "sub-police-si",
+      "subjectId": "sub-police-si",
+      "name": "State Police SI",
+      "category": "Government Exams",
+      "icon": "shield",
+      "createdAt": "2026-06-25T07:46:46.178Z"
+    },
+    {
+      "id": "sub-capf",
+      "subjectId": "sub-capf",
+      "name": "UPSC CAPF Forces",
+      "category": "Government Exams",
+      "icon": "shield",
+      "createdAt": "2026-06-25T07:46:46.178Z"
+    },
+    {
+      "id": "sub-rbi-grade-b",
+      "subjectId": "sub-rbi-grade-b",
+      "name": "RBI Grade B Officer",
+      "category": "Government Exams",
+      "icon": "trending-up",
+      "createdAt": "2026-06-25T07:46:46.178Z"
+    },
+    {
+      "id": "sub-ib-acio",
+      "subjectId": "sub-ib-acio",
+      "name": "IB ACIO Intelligence",
+      "category": "Government Exams",
+      "icon": "eye",
+      "createdAt": "2026-06-25T07:46:46.178Z"
+    },
+    {
+      "id": "sub-sebi-grade-a",
+      "subjectId": "sub-sebi-grade-a",
+      "name": "SEBI Grade A",
+      "category": "Government Exams",
+      "icon": "dollar-sign",
+      "createdAt": "2026-06-25T07:46:46.178Z"
+    },
+    {
+      "id": "sub-epfo",
+      "subjectId": "sub-epfo",
+      "name": "EPFO Enforcement",
+      "category": "Government Exams",
+      "icon": "briefcase",
+      "createdAt": "2026-06-25T07:46:46.178Z"
+    },
+    {
+      "id": "sub-ifs",
+      "subjectId": "sub-ifs",
+      "name": "Indian Forest Service",
+      "category": "Government Exams",
+      "icon": "trees",
+      "createdAt": "2026-06-25T07:46:46.178Z"
+    },
+    {
+      "id": "sub-jee",
+      "subjectId": "sub-jee",
+      "name": "JEE",
+      "category": "Engineering",
+      "icon": "binary",
+      "createdAt": "2026-06-25T07:46:46.178Z"
+    },
+    {
+      "id": "sub-neet",
+      "subjectId": "sub-neet",
+      "name": "NEET",
+      "category": "Medical",
+      "icon": "activity",
+      "createdAt": "2026-06-25T07:46:46.178Z"
+    },
+    {
+      "id": "sub-gk",
+      "subjectId": "sub-gk",
+      "name": "General Knowledge",
+      "category": "General",
+      "icon": "globe",
+      "createdAt": "2026-06-25T07:46:46.178Z"
+    },
+    {
+      "id": "sub-current-affairs",
+      "subjectId": "sub-current-affairs",
+      "name": "Current Affairs",
+      "category": "General",
+      "icon": "clock",
+      "createdAt": "2026-06-25T07:46:46.178Z"
+    }
+  ],
+  "quizzes": [],
+  "questions": [],
+  "attempts": [],
+  "questionHistory": [],
+  "jobs": {}
+}

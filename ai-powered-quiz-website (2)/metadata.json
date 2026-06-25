@@ -1,0 +1,6 @@
+{
+  "name": "AI Powered Quiz Website",
+  "description": "An interactive, clean, and comprehensive full-stack quiz website that utilizes Gemini AI model integrations for custom assessments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
